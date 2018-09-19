@@ -9,7 +9,7 @@ owner:
   name: Darya Levchenko
   avatar: bio-photo.jpg
   bio: "MA Film Studies candidate at NCSU."
-  email: #dlevche@ncsu.edu
+  email: dlevche@ncsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
@@ -22,8 +22,8 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #levchenko.darya
-  instagram: #dlevche
+  facebook: levchenko.darya
+  instagram: dlevche
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
