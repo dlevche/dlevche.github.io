@@ -9,6 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - Phillip is hot 
 - Seriously, very hot.
-- Lorem ipsum dolor sit amet
+- Like so hot you'll make him your semester project
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
