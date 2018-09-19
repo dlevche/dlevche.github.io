@@ -10,5 +10,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Phillip is hot 
 - Seriously, very hot.
 - Like so hot you'll make him your semester project
-- Lorem ipsum dolor sit amet
+- And do him repeatadly.
 - Lorem ipsum dolor sit amet
