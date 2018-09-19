@@ -7,8 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Current Interests and Projects:
 
-- Phillip is hot 
-- Seriously, very hot.
-- Like so hot you'll make him your semester project
-- And do him repeatadly.
-- And get an A on it, every day.
+- Modesty. 
+- Modesty.
+- Modesty.
+- Modesty.
+- Modesty.
