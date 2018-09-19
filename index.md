@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Seriously, very hot.
 - Like so hot you'll make him your semester project
 - And do him repeatadly.
-- Lorem ipsum dolor sit amet
+- And get an A on it, every day.
