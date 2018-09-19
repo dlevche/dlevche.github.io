@@ -7,13 +7,13 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2014 - 2015`
+__Zaporizhzhya National University__
+MA English and German languages and literatures
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017 - 2019`
+__NC State University__
+MA Film Studies  
 
 ## Awards
 
