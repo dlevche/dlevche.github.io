@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Current Interests and Projects:
 
 - Phillip is hot 
-- Lorem ipsum dolor sit amet
+- Seriously, very hot.
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
